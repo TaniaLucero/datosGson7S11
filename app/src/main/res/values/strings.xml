@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">datosGson7S11</string>
+
+    <string name="ingNombre">Ingresa tu Nombre</string>
+    <string name="ingEdad">Ingresa tu Edad</string>
+    <string name="ingCorreo">Ingresa tu Correo</string>
+    <string name="ingCurp">Ingresa tu Curp</string>
+    <string name="btnConvJson">Convierte a Json</string>
+</resources>
